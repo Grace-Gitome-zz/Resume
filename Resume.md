@@ -14,12 +14,12 @@ Nairobi,Kenya          </br>
 *Bsc. Electronic and Computer Engineering* </br></br>
 
 **Materi Girls High School:**, February 2010 - November 2013 </br>
-*Kenya Certificate of High School Education * </br></br>
+*Kenya Certificate of High School Education* </br></br>
 
 
 **St Teresa's Girls' Primary School:**, January 2007 - October 2009 </br>
-*Kenya Certificate of Primary School Education * </br></br>
+*Kenya Certificate of Primary School Education* </br></br>
 
 ## **Interests:**
 + Soduku challenges
-+ Article reading
+
