@@ -5,5 +5,7 @@ gitomegracie@gmail.com
 
 
 ## **Technologies**:
-#### Proficient:PHP,HTML5,MySQL
-#### Knowledgeable:C/C++, PythonJavaScript,MongoDB, Firebase
+**Proficient:** PHP,HTML5,MySQL
+**Knowledgeable:** C/C++, PythonJavaScript,MongoDB, Firebase, AdobeXD
+
+## 
