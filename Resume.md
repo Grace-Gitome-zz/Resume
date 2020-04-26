@@ -7,7 +7,7 @@ Nairobi,Kenya          </br>
 
 ## **Technologies:**
 **Proficient:** PHP,HTML5,MySQL </br>
-**Knowledgeable:** C/C++, PythonJavaScript,MongoDB, Firebase, AdobeXD </br>
+**Knowledgeable:** C/C++, PythonJavaScript,MongoDB, Firebase, AdobeXD, Protopie </br>
 
 ## **Education:**
 **Jomo Kenyatta University of Agriculture and Technology,** September 2014 - November 2019 </br>
